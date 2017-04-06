@@ -1,17 +1,17 @@
 Sonata's admin blog article index
 
-# Redirect to custom pages
-## Override buttons block
-## OPTIONAL : Preupdate your entity
-## OPTIONAL : Carry information via persistent parameters
-## Override CRUDController with your custom redirectTo
+### Redirect to custom pages
+1. Override buttons block
+2. OPTIONAL : Preupdate your entity
+3. OPTIONAL : Carry information via persistent parameters
+4. Override CRUDController with your custom redirectTo
 
-# Filter lists
-## Hidden filters to generate custom listings
-## Custom filters
-## Doctrine filters / orm_callback - orm_choice - orm_date_range
+### Filter lists
+1. Hidden filters to generate custom listings
+2. Custom filters
+3. Doctrine filters / orm_callback - orm_choice - orm_date_range
 
-# Custom field display in forms
-## Sonata's custom Type
-## Twig extensions
-## Base template override
+### Custom field display in forms
+1. Sonata's custom Type
+2. Twig extensions
+3. Base template override
